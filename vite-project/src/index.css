@@ -1,0 +1,12 @@
+.opac1{
+  opacity: 1;
+}
+.opac2{
+  opacity: 0.5;
+}
+
+#inp{
+  outline: none;
+  background-color: bisque;
+  border: none;
+}
